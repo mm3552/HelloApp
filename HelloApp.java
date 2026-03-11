@@ -10,7 +10,7 @@
 If a name is provided, it will display "Hello, [Name]!"
 If no name is provided, it will display "Hello, World!"
 *
-* @author Developer
+* @author Aditya
 * @version 3.0
 * @since UC1
 */
