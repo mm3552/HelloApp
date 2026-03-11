@@ -5,7 +5,7 @@
 * to the console. This application demonstrates fundamental Java concepts such
 * as class declaration, the main method, and standard output.
 *
-* @author Developer
+* @author Aditya
 * @version 1.0
 */
 
